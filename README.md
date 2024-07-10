@@ -2,7 +2,7 @@
 을유1945체
 
 <pre>
-  @font-face {
+@font-face {
     font-family: "eulyoo1945";
     font-weight: 400;
     font-style: normal;
